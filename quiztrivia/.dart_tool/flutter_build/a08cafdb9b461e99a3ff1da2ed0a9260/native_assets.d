@@ -1,0 +1,1 @@
+ /Users/stuart/z_MobDevProject_csc4360/fall24test_csc4360/firebase_projects/csc4360_hw5_fall24/quiztrivia/.dart_tool/flutter_build/a08cafdb9b461e99a3ff1da2ed0a9260/native_assets.yaml: 

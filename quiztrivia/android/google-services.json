@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435368233434",
+    "project_id": "hwk5-quiztrivia",
+    "storage_bucket": "hwk5-quiztrivia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435368233434:android:4ca458f94f90f5271198e3",
+        "android_client_info": {
+          "package_name": "com.example.quiztrivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwliEX1IBSj87AM8M-3ttICJilbJYNqms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

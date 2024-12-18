@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">435368233434</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwliEX1IBSj87AM8M-3ttICJilbJYNqms</string>
+    <string name="google_app_id" translatable="false">1:435368233434:android:4ca458f94f90f5271198e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwliEX1IBSj87AM8M-3ttICJilbJYNqms</string>
+    <string name="google_storage_bucket" translatable="false">hwk5-quiztrivia.firebasestorage.app</string>
+    <string name="project_id" translatable="false">hwk5-quiztrivia</string>
+</resources>
